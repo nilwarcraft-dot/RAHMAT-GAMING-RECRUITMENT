@@ -5,8 +5,9 @@ const nodemailer = require('nodemailer');
 const app = express();
 app.use(express.json());
 
-const TELEGRAM_BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN';
-const TELEGRAM_CHAT_ID = 'YOUR_TELEGRAM_CHAT_ID';
+const TELEGRAM_BOT_TOKEN = '8494724800:AAF_umgpa8MS6gZraFTNUFFBxIKdVb78im0';
+const TELEGRAM_CHAT_ID = '1664446777';
+
 
 const EMAIL_USER = 'your_email@example.com';
 const EMAIL_PASS = 'your_email_password';
